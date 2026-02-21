@@ -15,12 +15,9 @@ Users earn points based on their role (Customer, Seller, Admin), making it easy 
 
 ---
 
-## 📸 Screenshots
+## 📸 Mockup
 
-> 🎨 Replace these with your actual screenshots stored in `assets/screenshots/`
-
-![Home Screen](assets/loyalty_app.png)
-assets/loyalty_app.png
+(assets/loyalty_app.png)
 
 ---
 
@@ -40,6 +37,7 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
 
 
