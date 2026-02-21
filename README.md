@@ -21,6 +21,14 @@ Users earn points based on their role (Customer, Seller, Admin), making it easy 
 
 ---
 
+## 📂 Download & Demo
+
+- 📱 **APK**: [Download APK](https://drive.google.com/file/d/11A9zJub7FFj8pg_Mq10rB68Cef571BHr/view?usp=drivesdk)  
+- 🎬 **Demo Video**: [Watch Video](https://drive.google.com/file/d/1OHdOTA3ZsM7FT99oSHx_3yWO1x8WFT5a/view?usp=drivesdk)
+
+---
+
+
 ## 🛠️ Installation & Setup
 
 Follow these steps to get the app running on your machine:
@@ -37,6 +45,7 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
 
 
