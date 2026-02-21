@@ -17,7 +17,7 @@ Users earn points based on their role (Customer, Seller, Admin), making it easy 
 
 ## 📸 Mockup
 
-(assets/loyalty_app.png)
+!(assets/loyalty_app.png)
 
 ---
 
